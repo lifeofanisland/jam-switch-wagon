@@ -6,13 +6,13 @@ npm install jam-switch-wagon
 This module is still in development mode
 
 var jam = require('jam-switch-wagon').run<br/>
-    , clientid = ''
-    , clientsecret = ''
-    , clientcert = ''
-    , clienttype = ''
-    , clientband = ''
-    , data = ''+clientid+','+clientsecret+','+clientcert+','+clienttype+','+clientband+'';
+    , clientid = ''<br/>
+    , clientsecret = ''<br/>
+    , clientcert = ''<br/>
+    , clienttype = ''<br/>
+    , clientband = ''<br/>
+    , data = ''+clientid+','+clientsecret+','+clientcert+','+clienttype+','+clientband+'';<br/>
 
- jam(data, function (response) {
+ jam(data, function (response) { 
     console.log("response: "+response);
 });
