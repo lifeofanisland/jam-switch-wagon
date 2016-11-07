@@ -1,0 +1,28 @@
+{
+  "name": "JamSwitch",
+  "version": "0.2.6",
+  "description": "A NodeJS library for making payments via and for querying the Interswitch API (UNOFFICIAL)",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lifeofanisland/JamSwitch.git"
+  },
+  "keywords": [
+    "payments",
+    "interswitch",
+    "verve"
+  ],
+  "author": "Ayomide Ikechukwu Daniels 'lifeofanisland' <age2ho@gmail.com> (http://ayomidedaniels.com)",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/lifeofanisland/JamSwitch/issues"
+  },
+  "homepage": "https://github.com/lifeofanisland/JamSwitch#readme",
+  "dependencies": {
+    "request": "^2.78.0"
+  },
+  "devDependencies": {}
+}
