@@ -1,14 +1,14 @@
 {
   "name": "JamSwitch",
-  "version": "0.2.6",
-  "description": "A NodeJS library for making payments via and for querying the Interswitch API (UNOFFICIAL)",
+  "version": "0.0.1",
+  "description": "An easy to use Nodejs library / Module for the Interswitch payments API",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/lifeofanisland/JamSwitch.git"
+    "url": "git://github.com/lifeofanisland/jam-switch-wagon.git"
   },
   "keywords": [
     "payments",
@@ -18,9 +18,9 @@
   "author": "Ayomide Ikechukwu Daniels 'lifeofanisland' <age2ho@gmail.com> (http://ayomidedaniels.com)",
   "license": "",
   "bugs": {
-    "url": "https://github.com/lifeofanisland/JamSwitch/issues"
+    "url": "https://github.com/lifeofanisland/jam-switch-wagon/issues"
   },
-  "homepage": "https://github.com/lifeofanisland/JamSwitch#readme",
+  "homepage": "https://github.com/lifeofanisland/jam-switch-wagon#readme",
   "dependencies": {
     "request": "^2.78.0"
   },
