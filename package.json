@@ -1,6 +1,6 @@
 {
   "name": "jam switch wagon",
-  "version": "0.0.1"
+  "version": "0.0.1",
   "description": "An easy wagon for the interswicth payments API",
   "main": "index.js",
   "dependencies": {
